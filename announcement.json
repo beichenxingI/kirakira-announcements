@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "title": "🎉 KiraKira 1.0 正式发布!",
-  "content": "你好，欢迎使用 KiraKira。\n\nKiraKira 是基于开源项目 NativeTavern 的衍生版本，在此向原作者致谢。\n\n这条公告写于 2026 年 7 月 23 日凌晨 1 点 56 分。说真的，我现在还不知道我能不能做成功，只是提前把这句话写在这里——\n\n如果你看到了这条公告，那就说明它真的发布了。\n\n谢谢你愿意用它。",
-  "imageUrl": "https://github.com/beichenxingI/kirakira-announcements/blob/afc2f3402a5187d9165ac5b592c7c1200bea4842/images/3db782879709d4c74b7d78ec87155d52_720.jpg",
+  "content": "你好，欢迎使用 KiraKira。\n\nKiraKira 是基于开源项目 NativeTavern 的衍生版本，在此向原作者致谢。\n\n这条公告写于 2026 年 7 月 23 日凌晨 1 点 56 分。说真的，我现在还不知道我能不能做成功，只是提前把这句话写在这里——\n\n如果你看到了这条公告，那就说明它真的发布了。\n\n谢谢你愿意玩我的作品。KiraKira由北辰星个人完成，完全开源免费，如果您是通过付费渠道获取，请立刻退款并且举报。",
+  "imageUrl": "",
   "downloadUrl": "",
   "forceUpdate": false,
   "minAppVersion": "1.0.0"
