@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
-  "releaseNotes": ""
+  "version": "1.0.1",
+  "downloadUrl": "https://gitee.com/kirakira-config/kirakira-announcements/releases/download/v0/4.17/app-arm64-v8a-release.apk",
+  "releaseNotes": "Beta V2：新增本地生图与语音朗读，修复20+问题"
 }
