@@ -1,8 +1,7 @@
 {
   "version": "1.0.3",
   "title": "✨ KiraKira Beta V3.1",
-  "content": "V3 发布后收到了不少反馈，主要集中在性能问题上。这次 V3.1 专注解决这些问题。\n\n━━━━━━━━━━━━━━━━\n\n📦 这次更新了什么\n\n性能优化：\n\n• 修复了键盘弹出时的卡顿问题\n• 关闭了WebView日志输出（减少 95% 的性能开销）\n• 优化了流式生成的渲染效率\n• 修复了大文件导入时的崩溃问题（现在支持 1 GB 以上的导入包）\n• 开放了 HCPP 渲染模式选项（Android 14+ 设备可以在设置里切换，获得更流畅的体验）\n\n小改进：\n\n• 
-\n\n━━━━━━━━━━━━━━━━\n\n📥 如何下载\n\n下载地址（ARM64 版本）：\nhttps://github.com/beichenxingI/KiraKira/releases/download/Beta/app-arm64-v8a-release.apk\n\n适用于 2016 年后的大部分 Android 设备。\n\n如果 GitHub 直连较慢，可以前往官方 QQ 群获取最新版。群文件里会同步上传。\n\n━━━━━━━━━━━━━━━━\n\n这是个专注修 bug 和优化性能的版本。如果你在 V3 遇到了卡顿、崩溃，建议更新试试。\n\n有问题继续 @或私信我。\n\n—— 北辰星\n2026 年 10 月",
+  "content": "V3 发布后收到了不少反馈，主要集中在性能问题上。这次 V3.1 专注解决这些问题。\n\n━━━━━━━━━━━━━━━━\n\n📦 这次更新了什么\n\n性能优化：\n\n• 修复了键盘弹出时的卡顿问题\n• 关闭了开发期间的日志输出（减少 95% 性能开销）\n• 优化了流式生成的渲染效率\n• 修复了大文件导入时的崩溃问题（现在支持 1 GB 以上的导入包）\n• 开放了 HCPP 渲染模式选项（Android 14+ 设备可以在设置里切换，获得更流畅的体验）\n\n小改进：\n\n• WebView 渲染模式现在会记住你的选择，不用每次都改了\n\n━━━━━━━━━━━━━━━━\n\n📥 如何下载\n\n下载地址（ARM64 版本）：\nhttps://github.com/beichenxingI/KiraKira/releases/download/Beta/app-arm64-v8a-release.apk\n\n适用于 2016 年后的大部分 Android 设备。\n\n如果 GitHub 直连较慢，可以前往官方 QQ 群获取最新版。群文件里会同步上传。\n\n━━━━━━━━━━━━━━━━\n\n这是个专注修 bug 和优化性能的版本。如果你在 V3 遇到了卡顿、崩溃，建议更新试试。\n\n有问题继续 @我。\n\n—— 北辰星\n20260年 10 月",
   "imageUrl": "",
   "downloadUrl": "https://github.com/beichenxingI/KiraKira/releases/download/Beta/app-arm64-v8a-release.apk",
   "forceUpdate": false,
